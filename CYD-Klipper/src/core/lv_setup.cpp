@@ -273,7 +273,7 @@ void set_color_scheme()
 
 void lv_setup()
 {
-    set_screen_brightness();
+    //set_screen_brightness();
 
     lv_indev_t * display_driver = lv_indev_get_next(NULL);
 
